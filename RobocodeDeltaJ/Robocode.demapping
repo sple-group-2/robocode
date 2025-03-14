@@ -7,14 +7,26 @@ SpinningRadar:
 Line:
 <decore/Line.decore>
 
+Cornering:
+<decore/Cornering.decore>
+
 MouseTargeting:
 <decore/MouseTargeting.decore>
+
+HeadOnTargeting:
+<decore/HeadOnTargeting.decore>
 
 NoFireGun:
 <decore/NoFireGun.decore>
 
+MouseClickGun:
+<decore/MouseClickGun.decore>
+
 WeakestSelectEnemy:
 <decore/WeakestSelectEnemy.decore>
+
+ClosestSelectEnemy:
+<decore/ClosestSelectEnemy.decore>
 
 MouseRadar:
 <decore/MouseRadar.decore>
