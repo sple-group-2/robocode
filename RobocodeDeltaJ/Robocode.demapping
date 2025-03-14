@@ -31,7 +31,7 @@ ClosestSelectEnemy:
 LinearTargeting:
 <decore/LinearTargeting.decore>
 
-WeakestSelectEnemy:
+StrongestSelectEnemy:
 <decore/StrongestSelectEnemy.decore>
 
 KeyboardMovement:
@@ -39,3 +39,6 @@ KeyboardMovement:
 
 MaximumPowerGun:
 <decore/MaximumPowerGun.decore>
+
+Circular:
+<decore/Circular.decore>

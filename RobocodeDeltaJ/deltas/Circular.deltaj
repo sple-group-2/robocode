@@ -1,4 +1,4 @@
-delta ZigZag {
+delta Circular {
 
 	modifies jab.module.Movement {
 	
