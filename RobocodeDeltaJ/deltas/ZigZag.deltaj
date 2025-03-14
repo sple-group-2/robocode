@@ -1,0 +1,21 @@
+delta ZigZag {
+
+	modifies jab.module.Movement {
+	
+		adds import robocode.HitWallEvent;
+		adds import robocode.Event;
+		
+		modifies move() {
+        	bot.setAhead(100);
+            bot.setTurnRight(45);
+            bot.setAhead(100);
+            bot.setTurnLeft(45);
+		}
+		
+		adds public void listen(Event e) {
+			if (e instanceof HitWallEvent) {				
+				bot.setTurnRight(45);
+			}
+		}
+	}
+}
