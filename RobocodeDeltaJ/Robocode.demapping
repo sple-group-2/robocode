@@ -28,5 +28,14 @@ WeakestSelectEnemy:
 ClosestSelectEnemy:
 <decore/ClosestSelectEnemy.decore>
 
-MouseRadar:
-<decore/MouseRadar.decore>
+LinearTargeting:
+<decore/LinearTargeting.decore>
+
+WeakestSelectEnemy:
+<decore/StrongestSelectEnemy.decore>
+
+KeyboardMovement:
+<decore/KeyboardMovement.decore>
+
+MaximumPowerGun:
+<decore/MaximumPowerGun.decore>
